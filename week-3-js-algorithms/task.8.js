@@ -1,4 +1,3 @@
-//euality check
 function checkEquality(a, b) {
   if (a === b) {
     return true;

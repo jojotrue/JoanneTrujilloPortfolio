@@ -10,3 +10,4 @@ function longerString(string1, string2) {
 console.log(longerString("codemify", "test"));
 console.log(longerString("automation", "coding"));
 console.log(longerString("automation", "the codemify"));
+
